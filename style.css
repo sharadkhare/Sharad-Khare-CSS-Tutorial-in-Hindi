@@ -1,0 +1,14 @@
+body {
+    background-color: dodgerblue;
+}
+h1 {
+    color: chartreuse;
+    margin-left: 20px;
+}
+p {
+    color: yellow;
+    margin-left: 30px;
+}
+
+
+/*https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css*/
